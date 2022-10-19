@@ -1,0 +1,30 @@
+
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #858585;
+}
+
+div{
+     
+    background-color: #fff;
+    padding: 15px;
+}
+
+button{
+    background-color: #fff;
+    color: #858585 ;
+    letter-spacing: 0.2px;
+    padding: 8px 16px;
+    font-weight: 700;
+    font-size: 18px;
+    border: 1px solid #adadad;
+    border-radius: 16px;
+    cursor: pointer;
+}
+
+#action{
+    color: #fff;
+    background-color: #6c5ce7;
+    border: none;
+}
